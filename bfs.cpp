@@ -7,6 +7,7 @@ int main()
     int visited[5] = {0, 0, 0, 0, 0};
     queue<int> q1;
     int i = 0;
+    int j = 0;
     q1.push(0);
     q1.push(1);
     q1.push(1);//feature2 update
