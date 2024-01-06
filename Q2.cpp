@@ -7,6 +7,7 @@ int f(int n)
     return 1;
 
     f(n+5)>=f(n)+5;
+    f(n+5)>=f(n)+5;
     f(n+1)<=f(n)+1;
 
 
