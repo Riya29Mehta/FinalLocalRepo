@@ -28,6 +28,8 @@ void quickSort(int arr[], int low, int high)
     {
         int pi = partition(arr, low, high);
         quickSort(arr, low, pi - 1);
+
+        printf("hello");
         int x=10;
         quickSort(arr, pi + 1, high);
     }
