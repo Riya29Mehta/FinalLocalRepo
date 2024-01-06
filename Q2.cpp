@@ -5,9 +5,9 @@ int f(int n)
 {
     if(n==1)
     return 1;
-
+    int x;
     f(n+5)>=f(n)+5;
-    f(n+5)>=f(n)+5;
+    f(n+5)>=f(x)+5;
     f(n+1)<=f(n)+1;
 
 
