@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     int num=0;
     int div, rem,sum=0;
+    printf("change");
     while(num<1000){
         if(num%3==0 || num%5==0)
         {
