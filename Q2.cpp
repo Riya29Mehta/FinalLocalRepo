@@ -7,7 +7,7 @@ int f(int n)
     return 1;
     int y=1;
     f(n+5)>=f(n)+5;
-    f(n+5)>=f(y)+5;
+    printf("hello world");
     f(n+1)<=f(n)+1;
 
 
