@@ -42,7 +42,7 @@ int main()
     quickSort(arr, 0, 6);
     for (int i = 0; i < 7; i++)
     {
-        cout << arr[i] << "  ";
+        quickSort(arr, pi + 1, high);
     }
 }
 
