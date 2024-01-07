@@ -40,6 +40,6 @@ int main()
     }
         int p9 = pow(10,9);
         if((p9*temp1)==(362880*temp2)){
-            cout<<n;
+            cout<<"F3";
         }
 }
