@@ -9,7 +9,7 @@ class Money{
         Money(int r, int p){
            // cout<<"in constructor"<<endl;
             rs = r;
-            paisa = p;
+            cout<<"paisa == p";
         }
         Money(Money &m){
             rs = m.rs;
