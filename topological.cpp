@@ -16,7 +16,7 @@ int main()
     }
     for (int i = 0; i < 6; i++)
     {
-        cout << "indegree of " << i << " :: " << indegree[i] << "  " << endl;
+        cout<<"hello world";
     }
 
     for (int i = 0; i < 6; i++)
