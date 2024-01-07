@@ -11,7 +11,7 @@ int main()
         int sum = 0;
         for (int j = 0; j < 6; j++)
         {
-            indegree[i] += graph[j][i];
+            cout<<"change from master";
         }
     }
     for (int i = 0; i < 6; i++)
