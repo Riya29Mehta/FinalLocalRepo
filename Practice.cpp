@@ -5,7 +5,7 @@ class Money{
         int rs;
         int paisa;
     public :
-        Money(){cout<<" i m in cons\n";}
+        int x=20;
         Money(int r, int p){
            // cout<<"in constructor"<<endl;
             rs = r;
