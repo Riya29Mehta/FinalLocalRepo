@@ -35,7 +35,7 @@ int main(){
     // cout<<m1.paisa;
    // rishang.setData(10,20);
     // rishang.getData();
-    Money riya;
+    cout<<"riyas";
    // riya.setData(30,40);
     //  riya.getData();
      Money saksham;
